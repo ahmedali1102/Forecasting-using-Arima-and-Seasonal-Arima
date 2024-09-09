@@ -25,5 +25,5 @@ Make Predictions: Use the final model to make forecasts on your data.
 # Conclusion
 This project serves as a practical guide to implementing ARIMA and Seasonal ARIMA models for time series forecasting. It covers the end-to-end process from data preparation to model deployment.
 
-Here, the link for the above code video ,
+Here, the link for the above code
 https://1drv.ms/v/c/46e17f20539c6739/ERg-z64yl_pBioPXeX-xe4cBHBLHRzVJD6OjbanPVzOlfQ?e=gsUjQC
